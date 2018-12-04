@@ -7,3 +7,5 @@ npm run dev
 # Usage
 set the standard MongoDB URI as well as JWT secret
 
+Thanks to Brad treversy for the helpful video
+
