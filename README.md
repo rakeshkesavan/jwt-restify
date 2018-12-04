@@ -1,4 +1,4 @@
-#About
+# About
 Restify api server, uses JWT for authentication. Bcrypt to encode/decode passwords.
 
 # Start Server
