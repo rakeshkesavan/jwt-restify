@@ -4,6 +4,6 @@ Restify api server, uses JWT for authentication. Bcrypt to encode/decode passwor
 # Start Server
 npm run dev
 
-#Usage
+# Usage
 set the standard MongoDB URI as well as JWT secret
 
